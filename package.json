@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "my portafolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernesto1207/portafolio.git"
+  },
+  "author": "ernesto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ernesto1207/portafolio/issues"
+  },
+  "homepage": "https://github.com/Ernesto1207/portafolio#readme"
+}
