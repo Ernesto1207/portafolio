@@ -4,7 +4,7 @@
   "description": "my portafolio",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ernesto1207/portafolio/issues"
   },
-  "homepage": "https://github.com/Ernesto1207/portafolio#readme"
+  "homepage": "https://github.com/Ernesto1207/portafolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
 }
